@@ -8,7 +8,7 @@ public class LombokApplication {
 	
 	// M8
 
-	// Hello world 2
+	// Hello world 3
 
 	public static void main(String[] args) {
 		SpringApplication.run(LombokApplication.class, args);
